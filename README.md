@@ -15,3 +15,4 @@ Su objetivo es mejorar la eficiencia y coherencia de los datos, aplicando estruc
 * Gestión de Eventos --> Cada evento (cine o show) contiene una lista de ventas asociadas.
 
 # TeatroMoroGestionDatos
+# teatromorogestiondatos
