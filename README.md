@@ -14,3 +14,4 @@ Su objetivo es mejorar la eficiencia y coherencia de los datos, aplicando estruc
 * Visualización de Ventas --> Muestra todas las ventas registradas con su cliente asociado.
 * Gestión de Eventos --> Cada evento (cine o show) contiene una lista de ventas asociadas.
 
+# TeatroMoroGestionDatos
